@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Api Exercise',
       theme: ThemeData(
         
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.grey,
       ),
       home: const HomePage(),
     );
